@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout<<"Ilvina Sya'rani'\n\n";
+  cout<<"Ilvina Sya'rani'\n\n";
   int matriks1[10][10], matriks2[10][10], hasil[10][10];
   int i, j, k, m, n, p, q, jumlah = 0;
   cout << "Masukkan jumlah baris matriks pertama: ";
